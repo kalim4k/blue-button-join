@@ -7,7 +7,7 @@ const Index = () => {
         </h1>
 
         <a
-          href="https://mcp.chariow.com/public/?store=store_x3ku7ackwpnf"
+          href="https://whatsapp.com/channel/0029VbBkadL0bIdfJS6vU139"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block rounded-xl bg-primary px-12 py-4 text-lg font-bold text-primary-foreground shadow-lg transition-all hover:brightness-110 hover:shadow-xl hover:scale-105 active:scale-100"
